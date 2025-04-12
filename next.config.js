@@ -15,4 +15,10 @@ module.exports = {
       },
     ];
   },
+  // Configuration spécifique pour Netlify
+  target: 'serverless',
+  output: 'standalone',
+  poweredByHeader: false,
+  reactStrictMode: true,
+  swcMinify: true,
 };

@@ -1,24 +1,51 @@
 [build]
   command = "npm run build"
   publish = ".next"
+  ignore = "git diff --quiet HEAD^ HEAD ./"
 
 [build.environment]
-  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+  NETLIFY_NEXT_PLUGIN_SKIP = "false"
+  NODE_VERSION = "18"
+  NPM_VERSION = "9"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-# Configuration pour les redirections et les erreurs 404
+# Configuration précise pour Next.js
+[[redirects]]
+  from = "/_next/static/*"
+  to = "/static/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/nextjs-api/:splat"
+  status = 200
+
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/.netlify/functions/nextjs"
   status = 200
+  force = true
 
 [dev]
   framework = "nextjs"
   targetPort = 3000
+  autoLaunch = true
 
-# Configuration pour les fonctions Netlify
+# Fonctions serverless
 [functions]
   directory = "netlify/functions"
   node_bundler = "esbuild"
+  included_files = ["**/*"]
+
+# Caching et optimisations
+[[headers]]
+  for = "/_next/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
