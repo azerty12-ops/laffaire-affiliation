@@ -14,7 +14,7 @@ const casquesAudio = [
     rating: 4.8,
     image: 'https://m.media-amazon.com/images/I/71PvHfU+pwL._AC_SL1500_.jpg',
     amazonUrl: 'https://www.amazon.fr/dp/B0123456789',
-    description: 'Le SoundPro X500 offre une qualité sonore exceptionnelle avec sa technologie de réduction de bruit active de dernière génération. Profitez de jusqu'à 30 heures d'autonomie et d'un confort optimal pour une utilisation prolongée.',
+    description: 'Le SoundPro X500 offre une qualité sonore exceptionnelle avec sa technologie de réduction de bruit active de dernière génération. Profitez de jusqu\'à 30 heures d\'autonomie et d\'un confort optimal pour une utilisation prolongée.',
     pros: [
       'Réduction de bruit active exceptionnelle',
       'Autonomie de 30 heures',
@@ -35,13 +35,13 @@ const casquesAudio = [
     rating: 4.7,
     image: 'https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg',
     amazonUrl: 'https://www.amazon.fr/dp/B0123456790',
-    description: 'Les AudioBeats Pro redéfinissent l'expérience d'écoute avec une réduction de bruit adaptative qui s'ajuste automatiquement à votre environnement. Le mode transparence vous permet de rester conscient de votre entourage quand nécessaire.',
+    description: 'Les AudioBeats Pro redéfinissent l\'expérience d\'écoute avec une réduction de bruit adaptative qui s\'ajuste automatiquement à votre environnement. Le mode transparence vous permet de rester conscient de votre entourage quand nécessaire.',
     pros: [
       'Réduction de bruit adaptative intelligente',
       'Son spatial 3D immersif',
       'Mode transparence naturel',
       'Design premium et léger',
-      'Recharge rapide (5min = 3h d'utilisation)'
+      'Recharge rapide (5min = 3h d\'utilisation)'
     ],
     cons: [
       'Prix premium',
@@ -56,7 +56,7 @@ const casquesAudio = [
     rating: 4.5,
     image: 'https://m.media-amazon.com/images/I/71HOGNsY9GL._AC_SL1500_.jpg',
     amazonUrl: 'https://www.amazon.fr/dp/B0123456791',
-    description: 'Le SonicWave Comfort combine qualité sonore et confort à un prix accessible. Avec ses coussinets à mémoire de forme et son arceau ajustable, il est idéal pour les longues sessions d'écoute ou de travail.',
+    description: 'Le SonicWave Comfort combine qualité sonore et confort à un prix accessible. Avec ses coussinets à mémoire de forme et son arceau ajustable, il est idéal pour les longues sessions d\'écoute ou de travail.',
     pros: [
       'Excellent rapport qualité/prix',
       'Très confortable (coussinets à mémoire de forme)',
@@ -77,7 +77,7 @@ const casquesAudio = [
     rating: 4.9,
     image: 'https://m.media-amazon.com/images/I/61Ww4abGxCL._AC_SL1500_.jpg',
     amazonUrl: 'https://www.amazon.fr/dp/B0123456792',
-    description: 'Le nec plus ultra des casques audio sans fil, l'AudioPremium N700 offre une qualité sonore studio combinée à la meilleure réduction de bruit du marché. Son design en aluminium et cuir véritable en fait un accessoire aussi élégant que performant.',
+    description: 'Le nec plus ultra des casques audio sans fil, l\'AudioPremium N700 offre une qualité sonore studio combinée à la meilleure réduction de bruit du marché. Son design en aluminium et cuir véritable en fait un accessoire aussi élégant que performant.',
     pros: [
       'Qualité sonore exceptionnelle (drivers 40mm HD)',
       'Meilleure réduction de bruit du marché',
@@ -87,8 +87,8 @@ const casquesAudio = [
     ],
     cons: [
       'Prix très élevé',
-      'Pas de résistance à l'eau/transpiration',
-      'Lourd pour les longues sessions d'écoute'
+      'Pas de résistance à l\'eau/transpiration',
+      'Lourd pour les longues sessions d\'écoute'
     ]
   },
   {
@@ -98,13 +98,13 @@ const casquesAudio = [
     rating: 4.4,
     image: 'https://m.media-amazon.com/images/I/71nJxMQKyYL._AC_SL1500_.jpg',
     amazonUrl: 'https://www.amazon.fr/dp/B0123456793',
-    description: 'Conçu spécifiquement pour le sport, le FitSound Sport est résistant à la transpiration et à l'eau (IPX7). Ses coussinets respirants et son maintien sécurisé en font le compagnon idéal de vos séances d'entraînement.',
+    description: 'Conçu spécifiquement pour le sport, le FitSound Sport est résistant à la transpiration et à l\'eau (IPX7). Ses coussinets respirants et son maintien sécurisé en font le compagnon idéal de vos séances d\'entraînement.',
     pros: [
       'Étanche et résistant à la transpiration (IPX7)',
       'Léger et maintien sécurisé pour le sport',
       'Coussinets respirants',
       'Autonomie de 20 heures',
-      'Charge rapide (10min = 2h d'utilisation)'
+      'Charge rapide (10min = 2h d\'utilisation)'
     ],
     cons: [
       'Qualité sonore correcte mais pas exceptionnelle',
