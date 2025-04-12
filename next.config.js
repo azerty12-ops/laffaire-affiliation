@@ -15,8 +15,7 @@ module.exports = {
       },
     ];
   },
-  // Configuration spécifique pour Netlify
-  target: 'serverless',
+  // Configuration optimisée pour Vercel
   output: 'standalone',
   poweredByHeader: false,
   reactStrictMode: true,
