@@ -4,6 +4,7 @@ import LiveChat from '../components/LiveChat';
 import '../styles/globals.css';
 import '../styles/legal.css';
 import '../styles/product.css';
+import '../i18n'; // Import de l'initialisation i18n
 
 function MyApp({ Component, pageProps }) {
   const [isMounted, setIsMounted] = useState(false);
