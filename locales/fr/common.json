@@ -1,0 +1,40 @@
+{
+  "site_name": "𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒",
+  "header": {
+    "search": "Rechercher",
+    "search_placeholder": "Rechercher un produit",
+    "categories": "Catégories",
+    "language": "Langue"
+  },
+  "home": {
+    "popular": "Populaire en ce moment",
+    "new_arrivals": "Nouveautés",
+    "deals": "Bonnes affaires",
+    "see_more": "Voir plus"
+  },
+  "product": {
+    "buy_now": "Acheter sur Amazon",
+    "add_to_cart": "Ajouter au panier",
+    "price": "Prix",
+    "in_stock": "En stock",
+    "out_of_stock": "Rupture de stock",
+    "description": "Description",
+    "specifications": "Caractéristiques",
+    "related": "Produits similaires"
+  },
+  "footer": {
+    "about": "À propos",
+    "contact": "Contact",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "copyright": "© 2025 𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒 - Tous droits réservés"
+  },
+  "categories": {
+    "electronics": "Électronique",
+    "books": "Livres",
+    "fashion": "Mode",
+    "home": "Maison",
+    "toys": "Jouets",
+    "beauty": "Beauté"
+  }
+}

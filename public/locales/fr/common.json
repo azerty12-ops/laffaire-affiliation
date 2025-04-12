@@ -1,0 +1,97 @@
+{
+  "site_name": "𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒",
+  "header": {
+    "search": "Rechercher",
+    "search_placeholder": "Rechercher un produit",
+    "categories": "Catégories",
+    "language": "Langue"
+  },
+  "home": {
+    "popular": "Populaire en ce moment",
+    "new_arrivals": "Nouveautés",
+    "deals": "Bonnes affaires",
+    "see_more": "Voir plus"
+  },
+  "product": {
+    "buy_now": "Acheter sur Amazon",
+    "add_to_cart": "Ajouter au panier",
+    "add_to_wishlist": "Ajouter à la liste de souhaits",
+    "remove_from_wishlist": "Retirer de la liste de souhaits",
+    "price": "Prix",
+    "in_stock": "En stock",
+    "out_of_stock": "Rupture de stock",
+    "description": "Description",
+    "specifications": "Caractéristiques",
+    "features": "Fonctionalités",
+    "related": "Produits similaires",
+    "reviews": "Avis clients",
+    "share": "Partager"
+  },
+  "footer": {
+    "about": "À propos",
+    "contact": "Contact",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "copyright": "© 2025 𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒 - Tous droits réservés"
+  },
+  "categories": {
+    "electronics": "Électronique",
+    "books": "Livres",
+    "fashion": "Mode",
+    "home": "Maison",
+    "toys": "Jouets",
+    "beauty": "Beauté"
+  },
+  "results_found": "résultats trouvés",
+  "wishlist": {
+    "title": "Ma liste de souhaits",
+    "empty": "Votre liste de souhaits est vide",
+    "add_items": "Ajoutez des produits à votre liste pour les retrouver facilement plus tard",
+    "browse_products": "Découvrir les produits",
+    "remove": "Supprimer",
+    "buy_now": "Acheter maintenant"
+  },
+  "review_system": {
+    "title": "Avis clients",
+    "write_review": "Donner votre avis",
+    "rating": "Note",
+    "comment": "Commentaire",
+    "name": "Nom",
+    "email": "Email",
+    "submit": "Envoyer",
+    "thank_you": "Merci pour votre avis !",
+    "verified_purchase": "Achat vérifié",
+    "no_reviews": "Aucun avis pour le moment",
+    "be_first": "Soyez le premier à donner votre avis",
+    "sort_by": "Trier par",
+    "most_recent": "Plus récents",
+    "highest_rating": "Mieux notés",
+    "lowest_rating": "Moins bien notés"
+  },
+  "price_alert": {
+    "btn_set_alert": "Alerte de prix",
+    "form_title": "Configurer une alerte de prix",
+    "form_info": "Nous vous préviendrons par email lorsque le prix de {{productName}} baissera en dessous de votre prix cible",
+    "current_price": "Prix actuel",
+    "target_price": "Prix cible",
+    "target_price_placeholder": "Saisissez votre prix cible",
+    "email": "Votre email",
+    "email_placeholder": "example@email.com",
+    "btn_create_alert": "Créer l'alerte",
+    "success_message": "Alerte de prix créée avec succès !",
+    "your_alerts": "Vos alertes pour ce produit",
+    "target": "Prix cible",
+    "delete_alert": "Supprimer l'alerte",
+    "error_invalid_price": "Veuillez saisir un prix valide",
+    "error_invalid_email": "Veuillez saisir une adresse email valide"
+  },
+  "live_chat": {
+    "title": "Assistance en direct",
+    "start_form_title": "Veuillez remplir ce formulaire pour commencer la conversation",
+    "name": "Nom",
+    "email": "Email",
+    "start_chat": "Démarrer la conversation",
+    "message_placeholder": "Tapez votre message ici...",
+    "send": "Envoyer"
+  }
+}

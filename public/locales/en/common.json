@@ -1,0 +1,97 @@
+{
+  "site_name": "𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒",
+  "header": {
+    "search": "Search",
+    "search_placeholder": "Search for a product",
+    "categories": "Categories",
+    "language": "Language"
+  },
+  "home": {
+    "popular": "Popular right now",
+    "new_arrivals": "New arrivals",
+    "deals": "Deals",
+    "see_more": "See more"
+  },
+  "product": {
+    "buy_now": "Buy on Amazon",
+    "add_to_cart": "Add to cart",
+    "add_to_wishlist": "Add to wishlist",
+    "remove_from_wishlist": "Remove from wishlist",
+    "price": "Price",
+    "in_stock": "In stock",
+    "out_of_stock": "Out of stock",
+    "description": "Description",
+    "specifications": "Specifications",
+    "features": "Features",
+    "related": "Similar products",
+    "reviews": "Customer reviews",
+    "share": "Share"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms of use",
+    "privacy": "Privacy policy",
+    "copyright": "© 2025 𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒 - All rights reserved"
+  },
+  "categories": {
+    "electronics": "Electronics",
+    "books": "Books",
+    "fashion": "Fashion",
+    "home": "Home",
+    "toys": "Toys",
+    "beauty": "Beauty"
+  },
+  "results_found": "results found",
+  "wishlist": {
+    "title": "My Wishlist",
+    "empty": "Your wishlist is empty",
+    "add_items": "Add products to your wishlist to easily find them later",
+    "browse_products": "Browse products",
+    "remove": "Remove",
+    "buy_now": "Buy now"
+  },
+  "review_system": {
+    "title": "Customer Reviews",
+    "write_review": "Write a review",
+    "rating": "Rating",
+    "comment": "Comment",
+    "name": "Name",
+    "email": "Email",
+    "submit": "Submit",
+    "thank_you": "Thank you for your review!",
+    "verified_purchase": "Verified purchase",
+    "no_reviews": "No reviews yet",
+    "be_first": "Be the first to write a review",
+    "sort_by": "Sort by",
+    "most_recent": "Most recent",
+    "highest_rating": "Highest rating",
+    "lowest_rating": "Lowest rating"
+  },
+  "price_alert": {
+    "btn_set_alert": "Price alert",
+    "form_title": "Set Price Alert",
+    "form_info": "We'll notify you by email when the price of {{productName}} drops below your target price",
+    "current_price": "Current price",
+    "target_price": "Target price",
+    "target_price_placeholder": "Enter your target price",
+    "email": "Your email",
+    "email_placeholder": "example@email.com",
+    "btn_create_alert": "Create alert",
+    "success_message": "Price alert created successfully!",
+    "your_alerts": "Your alerts for this product",
+    "target": "Target price",
+    "delete_alert": "Delete alert",
+    "error_invalid_price": "Please enter a valid price",
+    "error_invalid_email": "Please enter a valid email address"
+  },
+  "live_chat": {
+    "title": "Live Chat Support",
+    "start_form_title": "Please fill this form to start the conversation",
+    "name": "Name",
+    "email": "Email",
+    "start_chat": "Start conversation",
+    "message_placeholder": "Type your message here...",
+    "send": "Send"
+  }
+}

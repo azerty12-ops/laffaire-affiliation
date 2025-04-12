@@ -1,0 +1,40 @@
+{
+  "site_name": "𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒",
+  "header": {
+    "search": "Search",
+    "search_placeholder": "Search for a product",
+    "categories": "Categories",
+    "language": "Language"
+  },
+  "home": {
+    "popular": "Popular right now",
+    "new_arrivals": "New arrivals",
+    "deals": "Deals",
+    "see_more": "See more"
+  },
+  "product": {
+    "buy_now": "Buy on Amazon",
+    "add_to_cart": "Add to cart",
+    "price": "Price",
+    "in_stock": "In stock",
+    "out_of_stock": "Out of stock",
+    "description": "Description",
+    "specifications": "Specifications",
+    "related": "Similar products"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms of use",
+    "privacy": "Privacy policy",
+    "copyright": "© 2025 𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒 - All rights reserved"
+  },
+  "categories": {
+    "electronics": "Electronics",
+    "books": "Books",
+    "fashion": "Fashion",
+    "home": "Home",
+    "toys": "Toys",
+    "beauty": "Beauty"
+  }
+}

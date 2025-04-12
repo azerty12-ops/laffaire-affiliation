@@ -1,0 +1,19 @@
+{
+  "name": "𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒",
+  "short_name": "𝑙'𝑎𝑓𝑓𝑎𝑖𝑟𝑒",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#232f3e",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
