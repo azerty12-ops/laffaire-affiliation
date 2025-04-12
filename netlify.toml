@@ -7,3 +7,18 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
+# Configuration pour les redirections et les erreurs 404
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[dev]
+  framework = "nextjs"
+  targetPort = 3000
+
+# Configuration pour les fonctions Netlify
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
